@@ -1,5 +1,5 @@
 # ⚡ BannerGrab
-**[▶ Live Demo](https://YOURUSERNAME.github.io/bannergrab)**
+
 ```
 ╔══════════════════════════════════════╗
 ║  BANNERGRAB v1.0 — Service Recon    ║
@@ -51,7 +51,7 @@ From that single line you can infer: OpenSSH version, the OS distribution, and a
 **Requirements:** Python 3.8+, no pip installs needed.
 
 ```bash
-git clone https://github.com/yourname/bannergrab.git
+git clone https://github.com/Giftanne01/bannergrab.git
 cd bannergrab
 ```
 
@@ -110,7 +110,7 @@ Simple by design. The core logic is ~10 lines. The interesting work is in unders
 
 ---
 
-## Supported Services (Demo Mode)
+## Supported Services
 
 | Port | Service | Banner Pattern |
 |------|---------|---------------|
@@ -183,6 +183,12 @@ This tool is for **authorized use only**.
 - The difference between services that broadcast vs. services that wait for a probe
 - Why banner grabbing is step one of any real service enumeration workflow
 - How version strings leak more information than most sysadmins realize
+
+---
+
+## Author
+
+**Gift Anne Khaoya** — [github.com/Giftanne01](https://github.com/Giftanne01)
 
 ---
 
